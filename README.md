@@ -68,5 +68,5 @@ GUI version using Streamlit or Tkinter
 
 🙋‍♀️ Author
 Tammana Prajitha
-📧 tammana.prajitha@gmail.com
-🔗 LinkedIn
+📧 prajithatammana@gmail.com
+🔗 LinkedIn(https://www.linkedin.com/in/tammana-prajitha-24a5ab298/)
